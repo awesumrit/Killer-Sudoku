@@ -6,8 +6,7 @@ The solver of Killer Sudoku, as the hardest version of Sudoku, in C++.
 * [Daily Killer Sudoku](http://www.dailykillersudoku.com/)
 
 ## Important Note:
-You use this Repository at your own risk.
+You use this repository at your own risk.
 
 ## Contact Me
-Please do not hesitate to contact me if you have any comments.
-Email address: [moein.owhadi@gmail.com](mailto:moein.owhadi@gmail.com)
+Please do not hesitate to contact me if you have any comments. My email address: [moein.owhadi@gmail.com](mailto:moein.owhadi@gmail.com)
