@@ -9,4 +9,4 @@ The solver of Killer Sudoku, as the hardest version of Sudoku, in C++.
 You use this repository at your own risk.
 
 ## Contact Me
-Please do not hesitate to contact me if you have any comments. My email address: [moein.owhadi@gmail.com](mailto:moein.owhadi@gmail.com)
+Please do not hesitate to contact me if you have any comments. My email address is [moein.owhadi@gmail.com](mailto:moein.owhadi@gmail.com).
